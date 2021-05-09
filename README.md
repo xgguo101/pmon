@@ -1,3 +1,7 @@
+## 简介
+
+使用 netlink connector 监控进程示例。
+
 ## 安装
 
 仅限 linux 系统.
